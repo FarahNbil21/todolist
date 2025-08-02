@@ -5,14 +5,13 @@ A simple and clean Flutter application to manage daily tasks.
   
 
 ## screenshots:
-![screenshot1](assets/images/Screenshot1.pngscreenshots/screen1.png) 
-![screenshot1](assets/images/Screenshot2.pngscreenshots/screen2.png) 
-![screenshot1](assets/images/Screenshot3.pngscreenshots/screen3.png) 
-![screenshot1](assets/images/Screenshot4.pngscreenshots/screen4.png) 
-![screenshot1](assets/images/Screenshot5.pngscreenshots/screen5.png) 
-![screenshot1](assets/images/Screenshot6.pngscreenshots/screen6.png) 
-![screenshot1](assets/images/Screenshot7.pngscreenshots/screen7.png) 
-
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/0a52dc6d-bbfc-4395-8683-142a47632a99" />
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/5c6c38b2-cd40-45f6-931b-baa2c18098a2" />
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/e837bc14-3656-4fcb-8d4d-ae641cd76765" />
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/a946699d-791c-42c8-a66c-49eba1849b6c" />
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/949810cd-bf9d-4289-928c-3ddede4d6c86" />
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/e075f3bc-351a-4cf3-8e01-a5361a207acc" />
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/8fc6f260-7bb0-4f36-aa39-9be39bd3e52b" />
 ## Features
 
 - Add new tasks  
