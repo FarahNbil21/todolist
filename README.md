@@ -10,12 +10,11 @@ A simple and clean Flutter application to manage daily tasks.
   <img src="https://github.com/user-attachments/assets/5c6c38b2-cd40-45f6-931b-baa2c18098a2" width="25%">
   <img src="https://github.com/user-attachments/assets/e837bc14-3656-4fcb-8d4d-ae641cd76765" width="25%">
   <img src="https://github.com/user-attachments/assets/a946699d-791c-42c8-a66c-49eba1849b6c"  width="25%">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/949810cd-bf9d-4289-928c-3ddede4d6c86" width="25%">
+ <img src="https://github.com/user-attachments/assets/949810cd-bf9d-4289-928c-3ddede4d6c86" width="25%">
   <img src="https://github.com/user-attachments/assets/e075f3bc-351a-4cf3-8e01-a5361a207acc" width="25%">
   <img src="https://github.com/user-attachments/assets/8fc6f260-7bb0-4f36-aa39-9be39bd3e52b" width=25%">
 </p>
+
 
 ## Features
 
